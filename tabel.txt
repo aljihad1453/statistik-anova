@@ -19,10 +19,10 @@ Levene Statistic	df1	df2	Sig.
 
 ANOVA					
 nilai
-	Sum of Squares	df	Mean Square	F	Sig.
+	Sum of Squares	        df	Mean Square	F	Sig.
 Between Groups	1000.000	2	500.000	2.000	.178
 Within Groups	3000.000	12	250.000		
-Total	4000.000	14			
+Total	     4000.000  	        14			
 
 
 
