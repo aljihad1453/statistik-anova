@@ -1,5 +1,6 @@
 Descriptives								
-nilai
+nilai testt
+
 	N	Mean	Std. Deviation	Std. Error	95% Confidence Interval for Mean		Minimum	Maximum
 					Lower Bound	Upper Bound		
 A	5	70.00	15.811	7.071	50.37	89.63	50	90
