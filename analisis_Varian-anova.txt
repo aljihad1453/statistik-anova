@@ -1,0 +1,32 @@
+Syarat Uji Anova 
+1. Data berdistribusi Normal
+	- Lihat Deskripsi (Histogram, Scatter plot dll)
+	- Miu (rata-rata) > sigma(std deviasi)
+	- Uji normalitas
+2. Variansi nya Homogen
+3. Saling Bebas (ambil data nya random)
+
+Minimal 2 variabel 
+1 variabel = dependent (variabel bebas) --> Nominal/Ordinal
+1 yang lainnya = indepentdent (variabel terikat) --> ratio/interval
+
+Cara Uji Hipotesis Soal SPSS ANOVA
+1.Menentukan Hipotesis
+	- H0 : tidak ada pengaruh metode belajar terhadap nilai
+	- H1 : ada pengaruh metode belajar terhadap nilai
+2. Menentukan significance error
+	- Alpha = 0,05 = 5%
+3. Menentukan derajat bebas
+	- df1 = dfB = 2
+	- df2 = dfW = 12
+4. Analisis FHitung dan Ftabel
+	- FHitung = 2
+	- Ftabel = 3,89
+5. Menentukan kriteria pengujian
+	- Jika nilai F Hitung > F tabel , maka H0 ditolak
+	- Jika nilai F Hitung < F tabel, maka H0 diterima(gagal ditolak)
+6. Membandingkan nilai FHitung dengan Ftabel
+	FHitung <---> FTable
+	2 < 3,89
+Karena Fhitung < FTabel, H0 diterima
+Kesimpulan : Tidak ada pengaruh metode belajar terhadap nilai
